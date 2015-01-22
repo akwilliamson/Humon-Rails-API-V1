@@ -1,0 +1,5 @@
+Running in verbose mode
+
+You must identify the directory where the old cluster data resides.
+Please use the -d command-line option or the PGDATAOLD environment variable.
+Failure, exiting
